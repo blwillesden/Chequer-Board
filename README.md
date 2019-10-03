@@ -1,2 +1,0 @@
-# Chequer-Board
-Checkerboard Project
