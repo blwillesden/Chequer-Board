@@ -31,7 +31,7 @@ function draw() {
           fill(color1)
         }
       }
-      rect(c * size, r * size, size, 50)
+      rect(c * size, r * size, size, size)
     }
   }
 
